@@ -1,0 +1,62 @@
+.Menu
+{
+    margin-left: 750px;
+    word-spacing: 30px;
+    margin-top:-50px;
+    position: fixed;
+    font-size: 20px;
+    
+}
+.Greet 
+{
+    word-spacing: 2px;
+    font-size: 40px;
+    font-family: bell mt;
+    top: 200px;
+    left: 50px;
+    position: fixed;
+}
+p
+{
+    color: grey;
+    word-spacing: 2px;
+    font-size: 20px;
+    top: 250px;
+    left: 50px;
+    position: fixed;
+    width: 450px;
+    
+}
+.aside
+{
+    margin-left: 590px;
+    position:fixed;
+    top: 110px;
+    height: 120%;
+    width:250%;
+    
+}
+.git
+{
+    height: 50%;
+    width: 20%;
+    
+}
+
+.git{
+    margin-top: 270px;
+    margin-left: 50px;
+    position: fixed;
+}
+.din{
+    margin-top: 270px;
+    margin-left: 90px;
+    position: fixed;
+   
+}
+.face
+{
+    margin-top: 270px;
+    margin-left: 135px;
+    position: fixed;
+}
